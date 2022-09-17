@@ -18,3 +18,6 @@
 # Run
 
 `npm start`
+jdm holdings site 
+red on black scheme 
+instagram api for gallery
